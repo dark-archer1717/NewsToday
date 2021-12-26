@@ -1,2 +1,2 @@
-# NewsToday-
-React News App using Api
+# NewsToday
+React News App using API
