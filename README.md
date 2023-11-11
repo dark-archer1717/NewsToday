@@ -1,4 +1,5 @@
-Screenshot :
+## Screenshot 
+
 ![3](https://github.com/dark-archer1717/NewsToday/assets/70346845/cf337842-f88f-4b6e-8c15-b467454162f2)
 
 In the project directory, you can run:
